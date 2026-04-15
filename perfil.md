@@ -1,17 +1,17 @@
 
-    Comida China
+    mi perfil
 
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW4xaGF5em8wczdpNDMydmU3bTZoNGJlbnN3M2d4M3dzcjcxdXJ3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif)
+![](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Fjpg-mariposa&ved=0CBcQjRxqFwoTCOjXgIuj8JMDFQAAAAAdAAAAABAH&opi=89978449)
 
-## 🚀 Hola, mi nombre es Pablo D. Gutiérrez
+## 🚀 hola mi nombre es jesus manuel moreno mendoza
 
-| Lenguaje   | Habilidad |
+| habilidades  | Habilidad |
 | ---------- | --------- |
-| HTML       | 9/10      |
-| CSS        | 8/10      |
-| JavaScript | 5/10      |
-| Bootstrap  | 2/10      |
+| veolocidad    | 9/10      |
+| fuerza      | 8/10      |
+| inteligenicia| 5/10      |
+| rapidez  | 2/10      |
 
 ## [![Información](https://img.shields.io/badge/Información-azul)](https://es.wikipedia.org/wiki/Información) Info
 
@@ -19,20 +19,20 @@ Hola, actalmente me encuentro dando clases en el Departamento de Diseño de Medi
 
 Algunos de mis intereses:
 
-- Filosofar
+- videojuego
 - Diseño de tecnología
-- Programar
+- leer
 - El anime
-- La estructura narrativa
-- La investigacion documental
+- dibujo
+- series
 
 Mi top 5 de comida:
 
-1. Gyozas
-2. Bistek (T-Bone,Top Sirloin, New York, etc.)
-3. Alitas del Pockets
-4. Ramen
-5. Tacos
-6. Comida China
+1. suchy
+2. enchiladas
+3. hamburguesas
+4. ensalada
+5. ramyeon
+6. tapoki
 
 ---
