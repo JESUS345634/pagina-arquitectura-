@@ -1,8 +1,8 @@
 
-    mi perfil
+# titulo mi perfil
 
 
-![soy una video](https://giphy.com/stickers/explosion-confetti-3ohhwzIw3bISRhQWME)
+![soy una video](https://github.com/JESUS345634/pagina-arquitectura-/blob/5e1eac45617ce0a6865674a850f264cff2836311/c6dd469c69f3c3b1d21649500c487edf.png)
 
 ## 🚀 hola mi nombre es jesus manuel moreno mendoza
 
