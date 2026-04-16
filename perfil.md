@@ -5,7 +5,7 @@
 ![soy una imagen](https://giphy.com/stickers/explosion-confetti-3ohhwzIw3bISRhQWME)
 
 ## 🚀 hola mi nombre es jesus manuel moreno mendoza
-![](https://giphy.com/gifs/djemilah-yes-im-excited-becoming-the-big-me-joSNxeswxuc74Juo8X)
+
 
 | habilidades  | Habilidad |
 | ---------- | --------- |
