@@ -2,7 +2,7 @@
 soy un parrafo normal
 ## subtitullo H2
 ## subtitulo H3
-![SOY IMAGEN](https://giphy.com/gifs/jUZmz3kAiAuLC))
+![alt](https://giphy.com/gifs/jUZmz3kAiAuLC))
 |COLUMNA 1 |COLUMNA 2|
 |-         |-        |
 |celda A1  |celda B1 |
