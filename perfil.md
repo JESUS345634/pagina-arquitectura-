@@ -2,7 +2,7 @@
     mi perfil
 
 
-![soy una imagen](https://giphy.com/stickers/explosion-confetti-3ohhwzIw3bISRhQWME)
+![soy una video](https://giphy.com/stickers/explosion-confetti-3ohhwzIw3bISRhQWME)
 
 ## 🚀 hola mi nombre es jesus manuel moreno mendoza
 
