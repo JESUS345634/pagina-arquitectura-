@@ -2,7 +2,7 @@
 soy un parrafo normal
 ## subtitullo H2
 ## subtitulo H3
-![SOY IMAGEN](https://media.self.com/photos/57d8b7d446d0cb351c8c5e73/master/w_1600,c_limit/pikachu-crying.gif)
+![SOY IMAGEN](https://giphy.com/stickers/explosion-confetti-3ohhwzIw3bISRhQWME)
 |COLUMNA 1 |COLUMNA 2|
 |-         |-        |
 |celda A1  |celda B1 |
